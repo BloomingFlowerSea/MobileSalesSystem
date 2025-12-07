@@ -1,0 +1,9 @@
+--- Monthly Sales Report: 10/2025 ---
+Date       Product Name         Qty Sold   Price     
+15/10/2025 iPhone 15 Pro        1          $999.00    
+20/10/2025 Samsung Galaxy S24 Ultra 1          $899.00    
+11/10/2025 iPhone 15 Pro        2          $999.00    
+12/10/2025 Samsung Galaxy S24 Ultra 4          $899.00    
+13/10/2025 Dell XPS 15 Laptop   1          $1199.00   
+14/10/2025 Bose QuietComfort Earbuds 5          $159.00    
+15/10/2025 Gadget Pro           1          $500.00    

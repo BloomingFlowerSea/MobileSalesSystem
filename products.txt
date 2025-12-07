@@ -1,0 +1,5 @@
+1,"iPhone 15 Pro","Apple",999.00,48,12,"AppleCare+"
+2,"Samsung Galaxy S24 Ultra","Samsung",899.00,16,12,"Samsung Premium Care"
+3,"Dell XPS 15 Laptop","Dell",1199.00,29,24,"Dell Warranty"
+4,"Bose QuietComfort Earbuds","Bose",159.00,25,6,"Bose Limited Warranty"
+5,"Gadget Pro","Generic Brand",500.00,19,12,"Generic Protection Plan"
